@@ -1,4 +1,4 @@
-<br clear="both">
+###
 
 <h1 align="left">URL Shortener Microservice</h1>
 
@@ -7,10 +7,6 @@
 <br clear="both">
 
 <p align="left">This is the boilerplate code for the URL Shortener Microservice project. https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice.</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
